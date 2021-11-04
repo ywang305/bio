@@ -12,6 +12,7 @@ portfolio biography
 - Holographic display
 - picture & video collection
 - embed a CLI of node? rust?, maybe via replit
+- my tools
 
 
 ### reference
