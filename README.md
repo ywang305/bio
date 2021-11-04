@@ -11,6 +11,7 @@ portfolio biography
 - 3D Voxel Dog
 - Holographic display
 - picture & video collection
+- embed a CLI of node? rust?, maybe via replit
 
 
 ### reference
