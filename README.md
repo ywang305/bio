@@ -6,6 +6,10 @@ portfolio biography
 - Chakra UI
 - Framer motion
 - Three.js
+- stripe
+- prisma( postgre )
+- redis cloud
+- 
 
 ### features
 - 3D Voxel Dog
