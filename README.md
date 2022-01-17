@@ -9,7 +9,7 @@ portfolio biography
 - stripe
 - prisma( postgre )
 - redis cloud
-- 
+- [planetscal mysql](https://planetscale.com)
 
 ### features
 - 3D Voxel Dog
