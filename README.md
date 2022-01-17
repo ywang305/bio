@@ -7,8 +7,8 @@ portfolio biography
 - Framer motion
 - Three.js
 - stripe
-- prisma( postgre )
-- redis cloud
+- [prisma: next gen nodejs ORM](https://www.prisma.io/)
+- redis cloud, redisJson
 - [planetscal mysql](https://planetscale.com)
 
 ### features
