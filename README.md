@@ -12,6 +12,7 @@ portfolio biography
 - [prisma: next gen nodejs ORM](https://www.prisma.io/)
 - redis cloud, redisJson
 - [planetscal mysql](https://planetscale.com)
+- [quirrel](https://quirrel.dev/)
 
 ### features
 
