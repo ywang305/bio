@@ -1,6 +1,7 @@
 import Head from "next/head";
 import Image from "next/image";
 import { Box } from "@chakra-ui/react";
+import MyBio from "../components/bio/my-bio";
 
 export default function Home() {
   return (
@@ -13,17 +14,7 @@ export default function Home() {
 
       <main>
         <Box p={16}>
-          <p>
-            {`I am a software engineer, based in NYC, 
-          ${new Date().getFullYear() - 2017} years of experience in professional
-          fullstack development. `}
-          </p>
-          <ul>
-            <li>React + SpringBoot + MSSQL</li>
-            <li>Vue + SpringBoot + MySQL</li>
-            <li>Vue + Node + Mongo</li>
-            <li>React + Rails + Postgre</li>
-          </ul>
+          <MyBio />
         </Box>
       </main>
 
