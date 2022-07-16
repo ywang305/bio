@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Yao's Profile</title>
+        <title>Yao Profile</title>
         <meta name="description" content="Profile" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
@@ -24,7 +24,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Powered by{" "}
+          Powered by
           <span>
             <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
           </span>

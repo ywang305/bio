@@ -25,11 +25,10 @@ function MyBio() {
         docker-based devops; founding projects: (1) cryptocurrency trading
         systems, leading the front-end development, implementing high-frequency
         trading, exchanges, and the critical components on micro service
-        architecture. (2) crypto wallet / payment gateway. That's building
-        keypair & transfer services on top of a few blockchain SDKs: HDKeys,
-        web3js, bitcore-lib, polkadot.js, filecoin-signer, tron-web...
-        Understand on-chain transaction protocols, infras, and token contract
-        ERC/TRC20.
+        architecture. (2) crypto wallet / payment gateway. That built keypair &
+        transfer services on top of a few blockchain SDKs: HDKeys, web3js,
+        bitcore-lib, polkadot.js, filecoin-signer, tron-web... Understand
+        on-chain transaction protocols, infras, and token contract ERC/TRC20.
       </p>
     </div>
   );
